@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cardsListingTraining"
+    }
+  },
+  "defaultProject": "cardsListingTraining",
+  "cli": {
+    "analytics": "719d5de2-ee23-4ca8-82ef-a4c71985ed8a"
+  }
 }
